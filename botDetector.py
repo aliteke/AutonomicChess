@@ -3,9 +3,11 @@
 class botDetector:
     
     #initialize the bot detector to detect on a set bot
-    def __init__(self,botOfInterestPath):
+    def __init__(self,botName,botOfInterestPath,manager):
         self.botOfInterestPath = botOfInterestPath
         self.estimatedLikeliness = 0.5
+        self.botName = botName
+        self.manager = manager
 
     #given a move or set of moves, what is the likeliness that these moves were taken by this bot
     def updateLikelinessThisOpponentIsThisBot(self, moveSet,testBoard):
