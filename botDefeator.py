@@ -1,5 +1,6 @@
 #this module will contain all code relevant to the "botDefeator" object
-
+import chess
+import chess.engine
 #a bot defeator will be given an open-access chessBot and asked to find a sequence of moves which can be used to defeat the bot
 
 class botDefeator:
@@ -11,6 +12,8 @@ class botDefeator:
         self.searchDepth = searchDepth
         self.OptimalSequence = None
         self.OptimalSequenceIndex = None
+        #spin up and store the engine
+        self.botOfInterest = chess.engine.SimpleEngine.popen_uci(botOfInterestPath)
         self.botName = botName
 
     #get the optimal move in order to defeat the bot
