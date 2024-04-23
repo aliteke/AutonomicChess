@@ -14,6 +14,9 @@ class autonomicChessManager:
         #initialiaze the searchDepth as the depth at which a search with 60 moves per layer will take ~1 min
         searchDepth =  60000 / timeOutInMS * 60
         #iterate over files in the directory
+        #store each detector's similarity index over time to create a plot
+        self.plot_x = []
+        self.plot_y_lists = []
         for filename in os.listdir(testEngineDirPath):
             engineFilePath = os.path.join(testEngineDirPath, filename)
             # checking if it is a file
@@ -22,7 +25,8 @@ class autonomicChessManager:
                 print("generating detect and defeat for", engineFilePath)
                 self.detectorsList.append(botDetector(filename,engineFilePath,self))
                 self.defeatorsList.append(botDefeator(filename,engineFilePath,searchDepth,self))
-                
+                self.plot_y_lists.append([])
+        self.initialNumberOfBotsConsidered = len(self.detectorsList)
         #finally initialize the optimalMovesGenerator
         self.optimalMoveGenerator = optimalMoveGenerator(optimalEnginePath,self)
         #store the timeout
@@ -33,8 +37,30 @@ class autonomicChessManager:
     #this function returns the next move which will be made on the gameboard
     def makeNextMove(self,gameBoard):
         #see if the bot has been found
+        if self.DetectionConfidenceScore < 1 or len(gameBoard.move_stack) < 5:
+            #track the highest and second highest bot detection scores
+            highestBotDetectorScore = 0.0
+            secondHighestBotDetectorScore = 0.0
+            self.plot_x.append(len(gameBoard.move_stack))
+            for count, possibleBotDetector in enumerate(self.detectorsList):
+                #update the detection scores with a copy of the board
+                possibleBotDetector.updateCouldOpponentBeThisBot(gameBoard.copy())
+                if(possibleBotDetector.matchingScore > highestBotDetectorScore):
+                    highestBotDetectorScore = possibleBotDetector.matchingScore
+                elif(possibleBotDetector.matchingScore > secondHighestBotDetectorScore):
+                    secondHighestBotDetectorScore = possibleBotDetector.matchingScore
+                self.plot_y_lists[count].append(possibleBotDetector.matchingScore)
+            #now update the detector score to reflect overall system confidence in the level of detection
+            #this will first take into account the difference between the highest confidence and second highest confidence scores
+            self.DetectionConfidenceScore = (highestBotDetectorScore - secondHighestBotDetectorScore) * highestBotDetectorScore
+
+            print("on turn ",len(gameBoard.move_stack),"detection confidence score is",self.DetectionConfidenceScore,"could be",[det.botName for det in self.detectorsList])
+
+        else:
+            pass
             #if so attempt to execute the bot Defeator on it
             #if the defeator cannot find a solution either play a few optimal rounds or just surrender
+        
 
         #if bot has not been found play an optimal move and then re-evaluate the different bots
         return self.optimalMoveGenerator.getOptimalMove(gameBoard)

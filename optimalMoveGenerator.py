@@ -17,5 +17,6 @@ class optimalMoveGenerator:
     #this much will return the move that is predicted to be optimal
     def getOptimalMove(self,board):
         #request the next move using the engine.play function
-        return self.optimalEngine.play(board, chess.engine.Limit(time=self.manager.timeOutInMS)).move
+        #note that because the optimal move engine is intended to be worse, we give it 1/3 the processing time
+        return self.optimalEngine.play(board, chess.engine.Limit(time=self.manager.timeOutInMS/3)).move
         
