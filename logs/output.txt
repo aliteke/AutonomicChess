@@ -1,0 +1,796 @@
+generating detect and defeat for C:\Users\alite\Desktop\jhu\autonomic\AnnalsOfTelecommunications\AutonomicChess\chessEngineTestReformed\Alexandria-6.1.0-avx2.exe
+generating detect and defeat for C:\Users\alite\Desktop\jhu\autonomic\AnnalsOfTelecommunications\AutonomicChess\chessEngineTestReformed\Clover.6.1-avx2.exe
+generating detect and defeat for C:\Users\alite\Desktop\jhu\autonomic\AnnalsOfTelecommunications\AutonomicChess\chessEngineTestReformed\igel-x64_popcnt_avx2_3_5_0.exe
+generating detect and defeat for C:\Users\alite\Desktop\jhu\autonomic\AnnalsOfTelecommunications\AutonomicChess\chessEngineTestReformed\stockfish-windows-x86-64-avx2.exe
+generating detect and defeat for C:\Users\alite\Desktop\jhu\autonomic\AnnalsOfTelecommunications\AutonomicChess\chessEngineTestReformed\Uralochka3.40a-avx2.exe
+selected opponent Alexandria-6.1.0-avx2.exe
+opponent played e2e4
+on turn  1 detection confidence score is 1.3333333333333335 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g1f3
+on turn  3 detection confidence score is 2.111111111111111 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b1c3
+on turn  5 detection confidence score is 0.9166666666666665 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d2d4
+on turn  7 detection confidence score is 0.4333333333333339 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f3d4
+on turn  9 detection confidence score is 0.36111111111111094 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d4c6
+on turn  11 detection confidence score is 0.30952380952380953 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f1d3
+on turn  13 detection confidence score is 0.2708333333333335 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e1g1
+on turn  15 detection confidence score is 0.24074074074074137 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e4d5
+on turn  17 detection confidence score is 0.21666666666666667 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played h2h3
+on turn  19 detection confidence score is 0.12121212121212144 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c1g5
+on turn  21 detection confidence score is 0.1250000000000001 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d1f3
+on turn  23 detection confidence score is 0.11538461538461608 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d3e2
+on turn  25 detection confidence score is 0.10714285714285732 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b2c3
+on turn  27 detection confidence score is 0.10000000000000064 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f1d1
+on turn  29 detection confidence score is 0.10416666666666685 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g5f6
+on turn  31 detection confidence score is 0.09803921568627472 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f3f6
+on turn  33 detection confidence score is 0.092592592592593 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e2f3
+on turn  35 detection confidence score is 0.08771929824561486 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f3d5
+on turn  37 detection confidence score is 0.08333333333333415 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d1d5
+on turn  39 detection confidence score is 0.0793650793650802 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d5d4
+on turn  41 detection confidence score is 0.1363636363636367 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d4c4
+on turn  43 detection confidence score is 0.12318840579710222 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c4g4
+on turn  45 detection confidence score is 0.006944444444444975 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g4f4
+on turn  47 detection confidence score is 0.006666666666667043 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f4g4
+on turn  49 detection confidence score is 0.37179487179487103 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g4f4
+on turn  51 detection confidence score is 0.3765432098765431 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a1b1
+on turn  53 detection confidence score is 0.27976190476190543 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a2a4
+on turn  55 detection confidence score is 0.27011494252873636 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b1b7
+on turn  57 detection confidence score is 0.10000000000000064 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g1h2
+on turn  59 detection confidence score is 0.10752688172043057 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b7a7
+on turn  61 detection confidence score is 0.06250000000000089 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f4b4
+on turn  63 detection confidence score is 0.04545454545454575 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b4f4
+on turn  65 detection confidence score is 0.078431372549021 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played h2g3
+on turn  67 detection confidence score is 0.0666666666666682 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g3h2
+on turn  69 detection confidence score is 0.06481481481481643 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f4f3
+on turn  71 detection confidence score is 0.11261261261261424 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f3g3
+on turn  73 detection confidence score is 0.052631578947369695 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g3b3
+on turn  75 detection confidence score is 0.1153846153846172 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b3b6
+on turn  77 detection confidence score is 0.20833333333333537 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b6b7
+on turn  79 detection confidence score is 0.20325203252032742 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b7f7
+on turn  81 detection confidence score is 0.19841269841270104 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f7g7
+on turn  83 detection confidence score is 0.20155038759690103 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g7h7
+on turn  85 detection confidence score is 0.25378787878788056 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played h3h4
+on turn  87 detection confidence score is 0.24814814814815012 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a7g7
+on turn  89 detection confidence score is 0.2681159420289875 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g7f7
+on turn  91 detection confidence score is 0.19148936170212905 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f7g7
+on turn  93 detection confidence score is 0.19444444444444597 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g7a7
+on turn  95 detection confidence score is 0.15986394557823302 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played h2g1
+on turn  97 detection confidence score is 0.15666666666666829 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played h7g7
+on turn  99 detection confidence score is 0.1666666666666683 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a7f7
+on turn  101 detection confidence score is 0.24038461538461675 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f7f8
+on turn  103 detection confidence score is 0.29874213836478314 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f8f3
+on turn  105 detection confidence score is 0.29629629629629894 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g2f3
+on turn  107 detection confidence score is 0.2909090909090939 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g7g5
+on turn  109 detection confidence score is 0.24702380952381253 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g1g2
+on turn  111 detection confidence score is 0.1871345029239796 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g5h5
+on turn  113 detection confidence score is 0.18678160919540554 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g2g3
+on turn  115 detection confidence score is 0.12429378531073676 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played h5c5
+on turn  117 detection confidence score is 0.12777777777778054 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c5c8
+on turn  119 detection confidence score is 0.12841530054645056 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c8g8
+on turn  121 detection confidence score is 0.07526881720430367 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g8a8
+on turn  123 detection confidence score is 0.14021164021164267 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a8a7
+on turn  125 detection confidence score is 0.14062500000000255 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a7h7
+on turn  127 detection confidence score is 0.13846153846154063 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played h7a7
+on turn  129 detection confidence score is 0.1439393939393968 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a7h7
+on turn  131 detection confidence score is 0.10447761194030125 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played h7c7
+on turn  133 detection confidence score is 0.10049019607843379 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c7c5
+on turn  135 detection confidence score is 0.0990338164251231 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c5a5
+on turn  137 detection confidence score is 0.14047619047619309 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g3g2
+on turn  139 detection confidence score is 0.12910798122066025 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g2g3
+on turn  141 detection confidence score is 0.10648148148148406 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g3h2
+on turn  143 detection confidence score is 0.10502283105023102 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played h2g2
+on turn  145 detection confidence score is 0.09684684684684974 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played h4h5
+on turn  147 detection confidence score is 0.02888888888889163 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a5a6
+on turn  149 detection confidence score is 0.03289473684210842 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a6a5
+on turn  151 detection confidence score is 0.03463203463203779 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a5a2
+on turn  153 detection confidence score is 0.1623931623931607 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g2g3
+on turn  155 detection confidence score is 3.3306690738754696e-15 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g3f2
+on turn  157 detection confidence score is 0.1937499999999981 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f2g3
+on turn  159 detection confidence score is 0.19341563786007987 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g3h2
+on turn  161 detection confidence score is 0.02032520325203624 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a2c2
+on turn  163 detection confidence score is 0.020080321285144143 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played h2g2
+on turn  165 detection confidence score is 0.01388888888889217 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c2a2
+on turn  167 detection confidence score is 0.1117647058823501 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a2a8
+on turn  169 detection confidence score is 0.11046511627906708 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g2h3
+on turn  171 detection confidence score is 0.053639846743298025 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a8c8
+on turn  173 detection confidence score is 0.053030303030306425 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c8f8
+on turn  175 detection confidence score is 0.050561797752812776 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f8e8
+on turn  177 detection confidence score is 0.05000000000000393 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e8f8
+on turn  179 detection confidence score is 0.04945054945055316 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f8e8
+on turn  181 detection confidence score is 0.04891304347826475 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e8f8
+on turn  183 detection confidence score is 0.05017921146953819 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f8f2
+on turn  185 detection confidence score is 0.10106382978723849 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+outcome is Outcome(termination=<Termination.INSUFFICIENT_MATERIAL: 3>, winner=None)
+generating detect and defeat for C:\Users\alite\Desktop\jhu\autonomic\AnnalsOfTelecommunications\AutonomicChess\chessEngineTestReformed\Alexandria-6.1.0-avx2.exe
+generating detect and defeat for C:\Users\alite\Desktop\jhu\autonomic\AnnalsOfTelecommunications\AutonomicChess\chessEngineTestReformed\Clover.6.1-avx2.exe
+generating detect and defeat for C:\Users\alite\Desktop\jhu\autonomic\AnnalsOfTelecommunications\AutonomicChess\chessEngineTestReformed\igel-x64_popcnt_avx2_3_5_0.exe
+generating detect and defeat for C:\Users\alite\Desktop\jhu\autonomic\AnnalsOfTelecommunications\AutonomicChess\chessEngineTestReformed\stockfish-windows-x86-64-avx2.exe
+generating detect and defeat for C:\Users\alite\Desktop\jhu\autonomic\AnnalsOfTelecommunications\AutonomicChess\chessEngineTestReformed\Uralochka3.40a-avx2.exe
+selected opponent igel-x64_popcnt_avx2_3_5_0.exe
+opponent played d2d4
+on turn  1 detection confidence score is 0.0 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c2c4
+on turn  3 detection confidence score is 0.0 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b1c3
+on turn  5 detection confidence score is 0.8750000000000002 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c1d2
+on turn  7 detection confidence score is 0.633333333333333 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d2c3
+on turn  9 detection confidence score is 0.5277777777777776 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d1c2
+on turn  11 detection confidence score is 0.2380952380952378 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c2c3
+on turn  13 detection confidence score is 0.20833333333333315 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g1f3
+on turn  15 detection confidence score is 0.05555555555555536 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g2g3
+on turn  17 detection confidence score is 0.04999999999999949 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f1h3
+on turn  19 detection confidence score is 0.04545454545454464 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e1g1
+on turn  21 detection confidence score is 0.06944444444444364 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f1d1
+on turn  23 detection confidence score is 0.06410256410256332 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f3e1
+on turn  25 detection confidence score is 0.05952380952380931 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played h3g2
+on turn  27 detection confidence score is 0.14444444444444482 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g1g2
+on turn  29 detection confidence score is 0.13541666666666674 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b2b3
+on turn  31 detection confidence score is 0.009803921568627416 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g2g1
+on turn  33 detection confidence score is 0.3055555555555553 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c3c2
+on turn  35 detection confidence score is 0.29824561403508754 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e1g2
+on turn  37 detection confidence score is 0.23333333333333317 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a1c1
+on turn  39 detection confidence score is 0.2698412698412697 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g2f4
+on turn  41 detection confidence score is 0.3939393939393937 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e2e3
+on turn  43 detection confidence score is 0.3768115942028982 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f4e2
+on turn  45 detection confidence score is 0.36805555555555536 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e2c3
+on turn  47 detection confidence score is 0.2999999999999997 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c4b5
+on turn  49 detection confidence score is 0.30769230769230715 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c2e2
+on turn  51 detection confidence score is 0.16049382716049304 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c3a4
+on turn  53 detection confidence score is 0.017857142857142794 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e2a6
+on turn  55 detection confidence score is 0.040229885057471715 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a6b6
+on turn  57 detection confidence score is 0.022222222222222643 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b6c6
+on turn  59 detection confidence score is 0.33333333333333354 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c6c7
+on turn  61 detection confidence score is 0.3229166666666669 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c7f4
+on turn  63 detection confidence score is 0.39393939393939426 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g3g4
+on turn  65 detection confidence score is 0.3823529411764706 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a4c5
+on turn  67 detection confidence score is 0.03333333333333299 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f4e5
+on turn  69 detection confidence score is 0.046296296296296224 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e5c7
+on turn  71 detection confidence score is 0.04504504504504486 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c7d7
+on turn  73 detection confidence score is 0.07017543859649089 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g1f1
+on turn  75 detection confidence score is 0.06837606837606813 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d1e1
+on turn  77 detection confidence score is 0.06666666666666654 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f1g1
+on turn  79 detection confidence score is 0.06910569105691045 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e1e2
+on turn  81 detection confidence score is 0.0674603174603175 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a2a3
+on turn  83 detection confidence score is 0.06589147286821723 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g1f1
+on turn  85 detection confidence score is 0.09848484848484856 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d7b7
+on turn  87 detection confidence score is 0.10000000000000037 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c1a1
+on turn  89 detection confidence score is 0.02536231884057938 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f1g1
+on turn  91 detection confidence score is 0.035460992907800915 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g1f1
+on turn  93 detection confidence score is 0.034722222222221544 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d4e5
+on turn  95 detection confidence score is 0.04421768707482954 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f1g1
+on turn  97 detection confidence score is 0.04666666666666652 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b7b6
+on turn  99 detection confidence score is 0.11437908496732013 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b6d6
+on turn  101 detection confidence score is 0.06730769230769207 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a1a3
+on turn  103 detection confidence score is 0.028301886792452824 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g1f1
+on turn  105 detection confidence score is 0.027777777777777124 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f1g2
+on turn  107 detection confidence score is 0.027272727272726338 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g2f1
+on turn  109 detection confidence score is 0.026785714285713635 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f1e1
+on turn  111 detection confidence score is 0.014619883040935533 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b3b4
+on turn  113 detection confidence score is 0.04885057471264331 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d6d4
+on turn  115 detection confidence score is 0.07344632768361559 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d4a1
+on turn  117 detection confidence score is 0.03333333333333299 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a3a8
+on turn  119 detection confidence score is 0.027322404371584175 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c5e6
+on turn  121 detection confidence score is 0.018817204301074808 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a8a7
+on turn  123 detection confidence score is 0.037037037037036535 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a7a5
+on turn  125 detection confidence score is 0.026041666666666297 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f2e3
+on turn  127 detection confidence score is 0.025641025641024995 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e1f1
+on turn  129 detection confidence score is 0.02525252525252486 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a5g5
+on turn  131 detection confidence score is 0.03980099502487566 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a1a6
+on turn  133 detection confidence score is 0.10784313725490158 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a6f6
+on turn  135 detection confidence score is 0.10628019323671467 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f1g1
+on turn  137 detection confidence score is 0.10476190476190472 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+outcome is Outcome(termination=<Termination.CHECKMATE: 1>, winner=False)
+generating detect and defeat for C:\Users\alite\Desktop\jhu\autonomic\AnnalsOfTelecommunications\AutonomicChess\chessEngineTestReformed\Alexandria-6.1.0-avx2.exe
+generating detect and defeat for C:\Users\alite\Desktop\jhu\autonomic\AnnalsOfTelecommunications\AutonomicChess\chessEngineTestReformed\Clover.6.1-avx2.exe
+generating detect and defeat for C:\Users\alite\Desktop\jhu\autonomic\AnnalsOfTelecommunications\AutonomicChess\chessEngineTestReformed\igel-x64_popcnt_avx2_3_5_0.exe
+generating detect and defeat for C:\Users\alite\Desktop\jhu\autonomic\AnnalsOfTelecommunications\AutonomicChess\chessEngineTestReformed\stockfish-windows-x86-64-avx2.exe
+generating detect and defeat for C:\Users\alite\Desktop\jhu\autonomic\AnnalsOfTelecommunications\AutonomicChess\chessEngineTestReformed\Uralochka3.40a-avx2.exe
+selected opponent Clover.6.1-avx2.exe
+opponent played e2e4
+on turn  1 detection confidence score is 2.6666666666666665 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d2d4
+on turn  3 detection confidence score is 1.8888888888888893 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b1d2
+on turn  5 detection confidence score is 1.4166666666666672 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e4d5
+on turn  7 detection confidence score is 0.19999999999999962 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g1f3
+on turn  9 detection confidence score is 0.49999999999999933 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f1b5
+on turn  11 detection confidence score is 0.42857142857142816 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b5d7
+on turn  13 detection confidence score is 0.33333333333333326 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e1g1
+on turn  15 detection confidence score is 0.37037037037037035 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d4c5
+on turn  17 detection confidence score is 0.13333333333333253 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d2b3
+on turn  19 detection confidence score is 0.10606060606060563 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f3d4
+on turn  21 detection confidence score is 0.12499999999999956 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c2c3
+on turn  23 detection confidence score is 0.25641025641025605 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c1f4
+on turn  25 detection confidence score is 0.4285714285714287 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f1e1
+on turn  27 detection confidence score is 0.4666666666666669 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played h2h3
+on turn  29 detection confidence score is 0.6354166666666672 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a2a4
+on turn  31 detection confidence score is 0.5980392156862752 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d1f3
+on turn  33 detection confidence score is 0.5648148148148155 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a4a5
+on turn  35 detection confidence score is 0.614035087719299 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a1d1
+on turn  37 detection confidence score is 0.5916666666666672 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d1b1
+on turn  39 detection confidence score is 0.5634920634920643 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f4d6
+on turn  41 detection confidence score is 0.5151515151515162 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f3g3
+on turn  43 detection confidence score is 0.6739130434782616 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b1e1
+on turn  45 detection confidence score is 0.6458333333333338 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g3c7
+on turn  47 detection confidence score is 0.30666666666666675 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e1b1
+on turn  49 detection confidence score is 0.32692307692307687 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g1f1
+on turn  51 detection confidence score is 0.31481481481481444 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b1d1
+on turn  53 detection confidence score is 0.30357142857142805 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d4f3
+on turn  55 detection confidence score is 0.4080459770114936 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d1b1
+on turn  57 detection confidence score is 0.39444444444444393 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g2g3
+on turn  59 detection confidence score is 0.37634408602150504 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b1d1
+on turn  61 detection confidence score is 0.46875000000000056 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d1b1
+on turn  63 detection confidence score is 0.4545454545454547 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b1d1
+on turn  65 detection confidence score is 0.4411764705882354 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d1b1
+on turn  67 detection confidence score is 0.42857142857142816 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f3e1
+on turn  69 detection confidence score is 0.004629629629628873 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f1g2
+on turn  71 detection confidence score is 0.01801801801801728 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b3d2
+on turn  73 detection confidence score is 0.017543859649122306 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b1a1
+on turn  75 detection confidence score is 0.017094017094016478 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c3d4
+on turn  77 detection confidence score is 0.016666666666665386 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a1a3
+on turn  79 detection confidence score is 0.016260162601625106 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e1d3
+on turn  81 detection confidence score is 0.01587301587301526 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a3c3
+on turn  83 detection confidence score is 0.02713178294573626 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c3c5
+on turn  85 detection confidence score is 0.02651515151515127 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d3e5
+on turn  87 detection confidence score is 0.025925925925925908 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c5d5
+on turn  89 detection confidence score is 0.31159420289854967 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e5g4
+on turn  91 detection confidence score is 0.35460992907801303 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d5d7
+on turn  93 detection confidence score is 0.347222222222221 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g4e3
+on turn  95 detection confidence score is 0.40136054421768597 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d7d5
+on turn  97 detection confidence score is 0.3533333333333327 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g2f3
+on turn  99 detection confidence score is 0.32352941176470473 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f3e4
+on turn  101 detection confidence score is 0.3173076923076912 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g3g4
+on turn  103 detection confidence score is 0.3238993710691812 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played h3h4
+on turn  105 detection confidence score is 0.2777777777777768 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e3c4
+on turn  107 detection confidence score is 0.25757575757575646 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e4f4
+on turn  109 detection confidence score is 0.261904761904761 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d5d6
+on turn  111 detection confidence score is 0.25730994152046605 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d6c6
+on turn  113 detection confidence score is 0.293103448275861 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f4e3
+on turn  115 detection confidence score is 0.2881355932203372 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c6b6
+on turn  117 detection confidence score is 0.2833333333333321 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e3d3
+on turn  119 detection confidence score is 0.2786885245901627 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c4e3
+on turn  121 detection confidence score is 0.2419354838709692 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d3e3
+on turn  123 detection confidence score is 0.2248677248677261 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e3f4
+on turn  125 detection confidence score is 0.2083333333333348 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f4g4
+on turn  127 detection confidence score is 0.20512820512820662 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b6b7
+on turn  129 detection confidence score is 0.18686868686868807 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b7b6
+on turn  131 detection confidence score is 0.017412935323381507 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g4g3
+on turn  133 detection confidence score is 0.026960784313724284 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b6a6
+on turn  135 detection confidence score is 0.08212560386473278 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a6a5
+on turn  137 detection confidence score is 0.08571428571428452 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a5a6
+on turn  139 detection confidence score is 0.08450704225351935 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a6a7
+on turn  141 detection confidence score is 0.08333333333333193 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a7h7
+on turn  143 detection confidence score is 0.08219178082191636 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played h7a7
+on turn  145 detection confidence score is 0.0855855855855836 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a7a5
+on turn  147 detection confidence score is 0.08444444444444255 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a5b5
+on turn  149 detection confidence score is 0.08991228070175272 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b5b8
+on turn  151 detection confidence score is 0.08874458874458702 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b8b4
+on turn  153 detection confidence score is 0.08760683760683619 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b4b7
+on turn  155 detection confidence score is 0.0864978902953567 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b7b3
+on turn  157 detection confidence score is 0.09166666666666601 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g3g2
+on turn  159 detection confidence score is 0.08436213991769304 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g2f3
+on turn  161 detection confidence score is 0.06504065040650209 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b3b6
+on turn  163 detection confidence score is 0.07831325301204617 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b6b2
+on turn  165 detection confidence score is 0.07936507936507853 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f3g2
+on turn  167 detection confidence score is 0.10392156862744972 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g2g1
+on turn  169 detection confidence score is 0.10465116279069653 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b2f2
+on turn  171 detection confidence score is 0.10536398467432817 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f2b2
+on turn  173 detection confidence score is 0.10227272727272585 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b2g2
+on turn  175 detection confidence score is 0.10112359550561667 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g2d2
+on turn  177 detection confidence score is 0.08333333333333193 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g1h2
+on turn  179 detection confidence score is 0.09890109890109744 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played h2g1
+on turn  181 detection confidence score is 0.13949275362318714 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d2d4
+on turn  183 detection confidence score is 0.13440860215053585 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g1f1
+on turn  185 detection confidence score is 0.14716312056737402 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d4d1
+on turn  187 detection confidence score is 0.11052631578947147 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f1g1
+on turn  189 detection confidence score is 0.12499999999999734 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d1a1
+on turn  191 detection confidence score is 0.12371134020618291 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g1f1
+on turn  193 detection confidence score is 0.1377551020408141 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f1e1
+on turn  195 detection confidence score is 0.1363636363636339 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e1f1
+on turn  197 detection confidence score is 0.0849999999999973 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+outcome is Outcome(termination=<Termination.CHECKMATE: 1>, winner=False)
+generating detect and defeat for C:\Users\alite\Desktop\jhu\autonomic\AnnalsOfTelecommunications\AutonomicChess\chessEngineTestReformed\Alexandria-6.1.0-avx2.exe
+generating detect and defeat for C:\Users\alite\Desktop\jhu\autonomic\AnnalsOfTelecommunications\AutonomicChess\chessEngineTestReformed\Clover.6.1-avx2.exe
+generating detect and defeat for C:\Users\alite\Desktop\jhu\autonomic\AnnalsOfTelecommunications\AutonomicChess\chessEngineTestReformed\igel-x64_popcnt_avx2_3_5_0.exe
+generating detect and defeat for C:\Users\alite\Desktop\jhu\autonomic\AnnalsOfTelecommunications\AutonomicChess\chessEngineTestReformed\stockfish-windows-x86-64-avx2.exe
+generating detect and defeat for C:\Users\alite\Desktop\jhu\autonomic\AnnalsOfTelecommunications\AutonomicChess\chessEngineTestReformed\Uralochka3.40a-avx2.exe
+selected opponent stockfish-windows-x86-64-avx2.exe
+opponent played e2e4
+on turn  1 detection confidence score is 0.33333333333333326 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b1c3
+on turn  3 detection confidence score is 0.3333333333333338 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d2d4
+on turn  5 detection confidence score is 0.29166666666666674 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e4e5
+on turn  7 detection confidence score is 0.5666666666666664 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f2f4
+on turn  9 detection confidence score is 1.2777777777777777 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g1f3
+on turn  11 detection confidence score is 1.1190476190476184 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c1e3
+on turn  13 detection confidence score is 0.9791666666666665 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c3a4
+on turn  15 detection confidence score is 0.8703703703703702 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c2c3
+on turn  17 detection confidence score is 0.8499999999999996 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b2b4
+on turn  19 detection confidence score is 0.7727272727272727 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f3d4
+on turn  21 detection confidence score is 0.708333333333333 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e3d4
+on turn  23 detection confidence score is 0.6538461538461537 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f1d3
+on turn  25 detection confidence score is 0.5238095238095236 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e1g1
+on turn  27 detection confidence score is 0.3222222222222221 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a1c1
+on turn  29 detection confidence score is 0.12499999999999956 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d4f2
+on turn  31 detection confidence score is 0.10784313725490158 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a4b2
+on turn  33 detection confidence score is 0.1481481481481478 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a2a3
+on turn  35 detection confidence score is 0.18421052631578894 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d3e2
+on turn  37 detection confidence score is 0.1416666666666655 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c3c4
+on turn  39 detection confidence score is 0.1349206349206339 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b2d3
+on turn  41 detection confidence score is 0.12878787878787767 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c4c5
+on turn  43 detection confidence score is 0.12318840579710055 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d1b3
+on turn  45 detection confidence score is 0.11805555555555458 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f1d1
+on turn  47 detection confidence score is 0.11333333333333251 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g1f1
+on turn  49 detection confidence score is 0.10897435897435803 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d3e1
+on turn  51 detection confidence score is 0.0987654320987641 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c1c2
+on turn  53 detection confidence score is 0.19642857142857129 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e2f3
+on turn  55 detection confidence score is 0.18965517241379237 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f3c6
+on turn  57 detection confidence score is 0.18333333333333313 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d1d4
+on turn  59 detection confidence score is 0.1774193548387093 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d4d5
+on turn  61 detection confidence score is 0.17187499999999967 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b3d5
+on turn  63 detection confidence score is 0.16666666666666607 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e1f3
+on turn  65 detection confidence score is 0.16176470588235292 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f3d4
+on turn  67 detection confidence score is 0.2952380952380951 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d4f5
+on turn  69 detection confidence score is 0.28703703703703676 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b4a5
+on turn  71 detection confidence score is 0.23873873873873852 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c2b2
+on turn  73 detection confidence score is 0.23245614035087625 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f5d6
+on turn  75 detection confidence score is 0.2692307692307683 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f1e2
+on turn  77 detection confidence score is 0.2624999999999994 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f2e3
+on turn  79 detection confidence score is 0.25609756097561 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c5c6
+on turn  81 detection confidence score is 0.2539682539682542 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e3d4
+on turn  83 detection confidence score is 0.2558139534883719 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d6b7
+on turn  85 detection confidence score is 0.3522727272727266 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d4c5
+on turn  87 detection confidence score is 0.34444444444444444 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e5e6
+on turn  89 detection confidence score is 0.23913043478260787 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e6e7
+on turn  91 detection confidence score is 0.2340425531914886 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played h2h3
+on turn  93 detection confidence score is 0.2291666666666664 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c5e7
+on turn  95 detection confidence score is 0.2244897959183667 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b2b5
+on turn  97 detection confidence score is 0.21999999999999964 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b5h5
+on turn  99 detection confidence score is 0.21568627450980316 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a3a4
+on turn  101 detection confidence score is 0.08974358974359053 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e2f3
+on turn  103 detection confidence score is 0.12264150943396279 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f3e4
+on turn  105 detection confidence score is 0.15432098765432167 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e4d5
+on turn  107 detection confidence score is 0.15151515151515194 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played h5h6
+on turn  109 detection confidence score is 0.1488095238095244 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g2g4
+on turn  111 detection confidence score is 0.146198830409357 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g4g5
+on turn  113 detection confidence score is 0.18965517241379237 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b7d8
+on turn  115 detection confidence score is 0.18644067796610153 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d8e6
+on turn  117 detection confidence score is 0.1694444444444443 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e6c5
+on turn  119 detection confidence score is 0.16666666666666663 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played h6c6
+on turn  121 detection confidence score is 0.16397849462365555 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g5g6
+on turn  123 detection confidence score is 0.2407407407407408 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c6c7
+on turn  125 detection confidence score is 0.23697916666666652 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g6g7
+on turn  127 detection confidence score is 0.23333333333333317 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c7c5
+on turn  129 detection confidence score is 0.2297979797979799 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c5c6
+on turn  131 detection confidence score is 0.23631840796019876 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d5e4
+on turn  133 detection confidence score is 0.2524509803921565 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e4f5
+on turn  135 detection confidence score is 0.2536231884057971 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f5g4
+on turn  137 detection confidence score is 0.2500000000000002 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c6c2
+on turn  139 detection confidence score is 0.2347417840375582 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g4h5
+on turn  141 detection confidence score is 0.29629629629629617 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c2g2
+on turn  143 detection confidence score is 0.30821917808219135 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played h5g4
+on turn  145 detection confidence score is 0.3040540540540537 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played h3h4
+on turn  147 detection confidence score is 0.262222222222222 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g4f3
+on turn  149 detection confidence score is 0.29385964912280627 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played h4h5
+on turn  151 detection confidence score is 0.25541125541125476 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g2g1
+on turn  153 detection confidence score is 0.01282051282051333 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g1g6
+on turn  155 detection confidence score is 0.006329113924051777 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g6c6
+on turn  157 detection confidence score is 0.06458333333333455 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f3e2
+on turn  159 detection confidence score is 0.06378600823045366 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e2d3
+on turn  161 detection confidence score is 0.0630081300813018 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played h5h6
+on turn  163 detection confidence score is 0.062248995983937294 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c6h6
+on turn  165 detection confidence score is 0.06150793650793851 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d3d4
+on turn  167 detection confidence score is 0.11372549019608047 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played h6c6
+on turn  169 detection confidence score is 0.11240310077519577 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c6d6
+on turn  171 detection confidence score is 0.143678160919542 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d6d5
+on turn  173 detection confidence score is 0.1439393939393957 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d5f5
+on turn  175 detection confidence score is 0.09925093632959014 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f5f7
+on turn  177 detection confidence score is 0.09814814814815054 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f7f2
+on turn  179 detection confidence score is 0.09523809523809712 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d4e3
+on turn  181 detection confidence score is 0.09420289855072705 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e3d3
+on turn  183 detection confidence score is 0.10931899641577314 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f2g2
+on turn  185 detection confidence score is 0.10815602836879656 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d3c3
+on turn  187 detection confidence score is 0.10701754385965101 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c3b3
+on turn  189 detection confidence score is 0.1059027777777799 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g2g1
+outcome is Outcome(termination=<Termination.CHECKMATE: 1>, winner=True)
+generating detect and defeat for C:\Users\alite\Desktop\jhu\autonomic\AnnalsOfTelecommunications\AutonomicChess\chessEngineTestReformed\Alexandria-6.1.0-avx2.exe
+generating detect and defeat for C:\Users\alite\Desktop\jhu\autonomic\AnnalsOfTelecommunications\AutonomicChess\chessEngineTestReformed\Clover.6.1-avx2.exe
+generating detect and defeat for C:\Users\alite\Desktop\jhu\autonomic\AnnalsOfTelecommunications\AutonomicChess\chessEngineTestReformed\igel-x64_popcnt_avx2_3_5_0.exe
+generating detect and defeat for C:\Users\alite\Desktop\jhu\autonomic\AnnalsOfTelecommunications\AutonomicChess\chessEngineTestReformed\stockfish-windows-x86-64-avx2.exe
+generating detect and defeat for C:\Users\alite\Desktop\jhu\autonomic\AnnalsOfTelecommunications\AutonomicChess\chessEngineTestReformed\Uralochka3.40a-avx2.exe
+selected opponent Alexandria-6.1.0-avx2.exe
+opponent played e2e4
+on turn  1 detection confidence score is 0.0 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d2d4
+on turn  3 detection confidence score is 0.0 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played b1c3
+on turn  5 detection confidence score is 1.5833333333333333 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e4e5
+on turn  7 detection confidence score is 0.40000000000000036 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f2f4
+on turn  9 detection confidence score is 0.3333333333333338 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g1f3
+on turn  11 detection confidence score is 0.2857142857142858 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c1e3
+on turn  13 detection confidence score is 0.2500000000000002 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d1d2
+on turn  15 detection confidence score is 0.22222222222222254 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c3e2
+on turn  17 detection confidence score is 0.21666666666666667 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played c2c3
+on turn  19 detection confidence score is 0.15151515151515194 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played g2g3
+on turn  21 detection confidence score is 0.2916666666666673 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f1h3
+on turn  23 detection confidence score is 0.7307692307692304 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e2d4
+on turn  25 detection confidence score is 0.6904761904761897 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e5f6
+on turn  27 detection confidence score is 0.6444444444444436 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e1g1
+on turn  29 detection confidence score is 0.6145833333333328 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d2e2
+on turn  31 detection confidence score is 0.5882352941176466 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e3d4
+on turn  33 detection confidence score is 0.2685185185185185 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a1d1
+on turn  35 detection confidence score is 0.5263157894736847 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e2e3
+on turn  37 detection confidence score is 0.5583333333333346 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f1e1
+on turn  39 detection confidence score is 0.634920634920636 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played a2a3
+on turn  41 detection confidence score is 0.07575757575757458 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played f3d2
+on turn  43 detection confidence score is 0.6376811594202908 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played e3f2
+on turn  45 detection confidence score is 0.6527777777777782 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d1c1
+on turn  47 detection confidence score is 0.6266666666666676 could be ['Alexandria-6.1.0-avx2.exe', 'Clover.6.1-avx2.exe', 'igel-x64_popcnt_avx2_3_5_0.exe', 'stockfish-windows-x86-64-avx2.exe', 'Uralochka3.40a-avx2.exe']
+opponent played d2f1

@@ -1,4 +1,4 @@
-in order to run this program first use pip to install the packages chess, pandas, and matplotlib
+in order to run this program first use pip to install the packages chess, pandas, matplotlib, pgn2data and pgmpy.
 A demonstration testing the autonomic manager in action can be run with the following command
 py .\runAutonomicChessTest.py
 

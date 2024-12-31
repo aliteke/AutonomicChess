@@ -13,7 +13,10 @@ class optimalMoveGenerator:
         self.manager = manager
         #spin up and store the optimal engine
         self.optimalEngine = chess.engine.SimpleEngine.popen_uci(optimalMoveEnginePath)
-        self.optimalEngine
+        self.optimalEngine_pid = self.optimalEngine.transport.get_pid()
+        self.optimalEngineName = self.optimalEngine.id['name']
+        print(f"DEBUG: optimalMoveGenerator: optimalEngine PID: {self.optimalEngine_pid}")
+
     #this much will return the move that is predicted to be optimal
     def getOptimalMove(self,board):
         #request the next move using the engine.play function
